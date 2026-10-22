@@ -3,12 +3,12 @@
 Computer Science student (B.Sc., IU International University) based in Pforzheim, Germany, focused on **detection engineering, cloud security and AI security**.
 I build security tools end to end, measure how well they work, and document what they don't catch.
 
-🔎 **Looking for:** a Werkstudent role or internship in IT security in Germany (Karlsruhe / Stuttgart / Heilbronn or remote)
-🗣️ English (native level) · German (B2) · Kiswahili
+**Looking for:** a Werkstudent role or internship in IT security in Germany (Pforzheim / Karlsruhe / Stuttgart and their circle or remote)
+English (native level) · German (B2) · Kiswahili
 
 ---
 
-### 🛡️ Featured projects
+### Featured projects
 
 | Project | What it does | Highlights |
 |---|---|---|
@@ -20,7 +20,7 @@ I build security tools end to end, measure how well they work, and document what
 ### 📚 Currently learning
 Sigma detection rules & ATT&CK coverage mapping · AWS security · German B2 exam
 
-### 🧰 Tools I use in these projects
+### Tools I use in these projects
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
