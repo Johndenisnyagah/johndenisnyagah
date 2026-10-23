@@ -1,7 +1,7 @@
 ### Hi, I'm John 👋
 
 Computer Science student (B.Sc., IU International University) based in Pforzheim, Germany, focused on **detection engineering, cloud security and AI security**.
-I build security tools end to end, measure how well they work, and document what they don't catch.
+I learn by building: my projects are made with AI-assisted development, and I use each one to deepen the security fundamentals behind it.
 
 **Looking for:** a Werkstudent role or internship in IT security in Germany (Pforzheim / Karlsruhe / Stuttgart and their circle or remote)
 English (native level) · German (B2) · Kiswahili
