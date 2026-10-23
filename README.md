@@ -36,5 +36,5 @@ Sigma detection rules & ATT&CK coverage mapping · AWS security · German B2 exa
 
 ### 📫 Contact
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=framer&logoColor=white)](https://johndenisnyagah.framer.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-denis-nyagah-7b8595328/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndenisnyagah/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:johndenisnyagah@gmail.com)
